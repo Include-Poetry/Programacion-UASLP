@@ -1,6 +1,3 @@
-/*input
-20 9 2
-*/
 #include <iostream>
 using namespace std;
 
@@ -23,5 +20,4 @@ void Intervalos(){
 
 int main(){
 	Intervalos();
-	return 0;
 }

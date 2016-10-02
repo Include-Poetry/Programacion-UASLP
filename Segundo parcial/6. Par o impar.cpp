@@ -1,7 +1,3 @@
-/*input
-10
-3 1 2 67 5 3 6 9 0 6
-*/
 #include <iostream>
 using namespace std;
 
@@ -14,8 +10,7 @@ void ParImpar(){
 
 	for(int i = 0; i < n; i++){
 		cin >> t;
-		if (t%2 == 0)
-			P++;
+		if (t%2 == 0) P++;
 		else I++;
 	}
 	cout << "Cantidad de numeros pares: " << P << endl
@@ -24,5 +19,4 @@ void ParImpar(){
 
 int main(){
 	ParImpar();
-	return 0;
 }

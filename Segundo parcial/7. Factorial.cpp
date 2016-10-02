@@ -1,6 +1,3 @@
-/*input
-5
-*/
 #include <iostream>
 using namespace std;
 
@@ -17,5 +14,4 @@ void Factorial(){
 
 int main(){
 	Factorial();
-	return 0;
 }

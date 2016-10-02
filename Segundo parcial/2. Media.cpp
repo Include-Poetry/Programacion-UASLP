@@ -1,7 +1,3 @@
-/*input
-5
-1 3 5 3 9
-*/
 #include <iostream>
 using namespace std;
 
@@ -9,8 +5,10 @@ void Media(){
 	int n;
 	float x, y=0;
 
-	cout << "Cantidad de numeros a ingresar: ";
+	cout << "Calculadora de promedio o media" << endl
+		 << "Cantidad de numeros a ingresar: ";
 	cin >> n;
+	cout << "Ingresa los " << n << " numeros" << endl;
 	for (int i = 0; i < n; i++){
 		cin >> x;
 		y += x;
@@ -21,5 +19,4 @@ void Media(){
 
 int main(){
 	Media();
-	return 0;
 }

@@ -1,6 +1,3 @@
-/*input
-4 5
-*/
 #include <iostream>
 using namespace std;
 
@@ -24,5 +21,4 @@ void Multiplicacion(){
 
 int main(){
 	Multiplicacion();
-	return 0;
 }

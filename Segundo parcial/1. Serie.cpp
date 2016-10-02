@@ -13,5 +13,4 @@ void MostrarSerie(){
 int main()
 {
 	MostrarSerie();
-	return 0;
 }
