@@ -6,6 +6,8 @@ Todos los códigos en este repositorio tienen como autor a rivel_co.
 
 Este repositorio está inactivo porque ya terminó el curso.
 
+Otra modificación.
+
 > Para aprender estas y otras cosas geniales sobre programación no olvides ir a [Include Poetry](http://www.include-poetry.com "#iP")
 
 ### ***Let's code, let's write poetry***
